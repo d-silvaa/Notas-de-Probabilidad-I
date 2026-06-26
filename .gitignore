@@ -1,0 +1,31 @@
+# Archivos temporales de R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Recursos personales
+Probabilidad I/notas/
+Probabilidad I/ejercicios/
+temario Proba1.pdf
+
+# Configuración local de VS Code
+.vscode/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+.env/
+
+# Logs
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Caché de Quarto
+*_cache/
